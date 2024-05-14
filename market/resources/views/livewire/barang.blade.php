@@ -1,6 +1,7 @@
 <div>
 <div>
-<div>
+<div <h1 style="background-color:DodgerBlue;"></h1>
+>
    <div class="mb-3">
        <label>Barcode</label>
        <input type="text" class="form-control" wire:model="barcode">

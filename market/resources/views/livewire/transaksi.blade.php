@@ -13,7 +13,8 @@
             <button class="btn btn-primary w-100" wire:click='pencarianbarang'>Cari</button>
             @if ($barang)
                     <div class="mt-1">
-                        <table class="table table-bordered">
+                        <table class="table table-bordered" <h1 style="background-color:DodgerBlue;"></h1>
+>
                             <tr>
                                 <td>Barcode</td>
                                 <td>{{ $barang->barcode }}</td>

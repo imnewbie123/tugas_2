@@ -37,14 +37,16 @@
     <body>
         
    
-        <div class="container mt-4">
+        <div class="container mt-4" <h1 style="background-color:DodgerBlue;"></h1>
+
           <div class="row">
              <div class="col-12">
                  <div class="card">
                      <div class="card-header">
                         SELAMAT DATANG
                      </div>
-                      <div class="card-body">
+                      <div class="card-body"<p style="background-color:bisque;"></p>
+
                           <h4 class="card-title">Market</h4>
                           @isset($slot)
                             @if($slot)
